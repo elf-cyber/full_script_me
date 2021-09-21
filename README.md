@@ -17,13 +17,20 @@ one level:
       
       
  #tremux
+ 
+ 
       pkg install python && pkg install python3 
       
       
  #linux 
+ 
+ 
       sudo apt-get install python && sudo apt-get install python3     
       
+      
+      
       #and
+      
       
       
       pip install requests
