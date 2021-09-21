@@ -6,9 +6,30 @@ one level:
       
       
       
+     
       git clone https://github.com/elf-cyber/full_script_me
       
       cd full_script_me
       
       python kernel.py
-
+#if erorr
+      commend to terminal:
+      
+      
+ #tremux
+      pkg install python && pkg install python3 
+      
+      
+ #linux 
+      sudo apt-get install python && sudo apt-get install python3     
+      
+      #and
+      
+      
+      pip install requests
+      
+      
+      pip install colorama
+      
+      
+      pip install time
