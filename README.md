@@ -16,7 +16,7 @@ one level:
       commend to terminal:
       
       
- #tremux
+ #termux
  
  
       pkg install python && pkg install python3 
