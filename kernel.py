@@ -21,8 +21,8 @@ while True:
     print('loding..!')
     a = random.randint(1, 2)
     b = str(a)
-    if b == 2:
-        break
+    time.sleep(5)
+    break
     
 if os.name == 'nt':
     
